@@ -1,0 +1,8 @@
+{
+  "name": "@deepseek-ai/dsh-tool-whale",
+  "version": "1.0.0",
+  "description": "DeepSeek Harness whale UI plugin — adds an animated DeepSeek whale to the Web UI sidebar",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT"
+}
