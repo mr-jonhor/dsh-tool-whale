@@ -2,6 +2,8 @@
 
 为 [DeepSeek Harness](https://github.com/deepseek-ai/DeepSeek-Harness) 设计的一个极简小插件，在 Web 右下角添加一只游动的 DeepSeek 品牌鲸鱼。
 
+A minimal plugin designed for DeepSeek Harness, which adds a swimming DeepSeek-themed whale in the lower right corner of the web page.
+
 ![UI](asset/ui-1.png)
 
 ## ✨ 功能
