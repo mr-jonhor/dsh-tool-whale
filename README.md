@@ -90,6 +90,9 @@ dsh web --profile web
 
 ```
 dsh-tool-whale/
+├── asset/
+│   ├── ui-1.png
+│   └── ui-2.png
 ├── host/
 │   ├── index.js        # Cordis Host 插件（注入逻辑）
 │   └── package.json    # npm 模块声明
